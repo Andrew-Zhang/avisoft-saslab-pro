@@ -8,7 +8,7 @@
 * [程序描述](program_discription/program_discription.md)
 	- [开始](program_discription/getting_start/getting_start.md)
 * [主窗口](the_main_window/the_main_window.md)
-	- [文件](the_main_window/file/file.md)
+	- [文件](the_main_window/file/open.md)
 		- [新建](the_main_window/file/new.md)
 		- [打开](the_main_window/file/open.md)
 	- [打开](the_main_window/open/open.md)
